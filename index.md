@@ -5,7 +5,6 @@ classoption: "12pt"
 keywords: apache, algorithms, xml, mysql, crawling,	scraping, remote, parsing, git, api, testing
 left-column:
   - 'Software Development Intern'
-  - 'Willing to Work Remote'
 right-column:
   - 'Email: [michaellundquist7@gmail.com](mailto:michaellundquist7@gmail.com)'
   # - 'Homepage: [http://castleamber.com/](http://castleamber.com/)'
@@ -20,7 +19,7 @@ section-color: orange
 - I'm highly skilled at: Java, Python, SQL, git
 - I'm familiar with: C/C++, DevOps, PHP, networking, web development, documentation tools like Latex and Markdown
 
-# School
+# Education
 
 ## Student Run Computing and Technology (SRCT)
 
